@@ -1,6 +1,6 @@
 # Unlimega (Unlimited Games)  - Flutter Application ⚡️
 
-## ## P.S. : Loom video file below to show working of application 
+*** P.S. : Loom video file below to show working of application ***
 
 ## Our Goal: 
 The primary aim of this project is to reduce the money spent by gamers while maximizing fun (games played by the user).
