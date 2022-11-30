@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "981404481350",
+    "firebase_url": "https://new-flash-chat-6e46c.firebaseio.com",
+    "project_id": "new-flash-chat-6e46c",
+    "storage_bucket": "new-flash-chat-6e46c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981404481350:android:bad987f64283c645451747",
+        "android_client_info": {
+          "package_name": "com.markpe.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981404481350-lbne7bfg4of77olk7n365f8aq2amsf1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi0VrH5xrvMEUjE8lRomud_wBpoQ7EAkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981404481350-lbne7bfg4of77olk7n365f8aq2amsf1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
